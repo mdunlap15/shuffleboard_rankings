@@ -1,14 +1,14 @@
-Ranking,Player,Wins,Losses,Win_%,ELO
+Ranking,Player,Wins,Losses,Win%,ELO
 1,Ben Brown,5,0,1.0,1678
-2,Mike Dunlap,5,1,0.8333333333333334,1660
+2,Mike Dunlap,5,1,0.833,1660
 3,Missy Kayko,4,1,0.8,1642
 4,Eric Papa,3,1,0.75,1631
 5,Tom Witteman,1,0,1.0,1616
-6,Ryan Leggette,2,1,0.6666666666666666,1616
-6,Paul Assad,2,1,0.6666666666666666,1616
+6,Ryan Leggette,2,1,0.667,1616
+6,Paul Assad,2,1,0.667,1616
 8,David Chester,1,0,1.0,1615
-9,Justin Goodfellow,2,1,0.6666666666666666,1615
-9,Jeff Weber,2,1,0.6666666666666666,1615
+9,Justin Goodfellow,2,1,0.667,1615
+9,Jeff Weber,2,1,0.667,1615
 11,Jeff Ziev,3,2,0.6,1615
 12,Isaac Dunn,1,1,0.5,1601
 13,Bob Sauchelli,1,1,0.5,1600
@@ -29,7 +29,7 @@ Ranking,Player,Wins,Losses,Win_%,ELO
 21,Amelia Burger,0,1,0.0,1584
 21,Kofi Wilson,0,1,0.0,1584
 21,Damir Uzunic,0,1,0.0,1584
-31,Adam Fratino,1,2,0.3333333333333333,1583
+31,Adam Fratino,1,2,0.333,1583
 32,Merle,0,1,0.0,1583
 32,Colin Hanson,0,1,0.0,1583
 32,Rob Leonardi,0,1,0.0,1583
