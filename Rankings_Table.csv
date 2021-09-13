@@ -1,39 +1,318 @@
-Ranking,Player,Wins,Losses,Win %,ELO
-1,Ben Brown,5,0,1.0,1678
-2,Mike Dunlap,5,1,0.833,1660
-3,Missy Kayko,4,1,0.8,1642
-4,Tom Witteman,1,0,1.0,1616
-5,Ryan Leggette,2,1,0.667,1616
-5,Paul Assad,2,1,0.667,1616
-7,Steve Olsen,1,0,1.0,1615
-7,David Chester,1,0,1.0,1615
-10,Eric Papa,2,1,0.667,1615
-10,Jeff Weber,2,1,0.667,1615
-10,Justin Goodfellow,2,1,0.667,1615
-12,Jeff Ziev,3,2,0.6,1615
-13,Isaac Dunn,1,1,0.5,1601
-16,Colin Kelly,1,1,0.5,1600
-16,Kurowska,1,1,0.5,1600
-16,Ian Ainley,1,1,0.5,1600
-16,Bob Sauchelli,1,1,0.5,1600
-16,Nelson Bakerman,1,1,0.5,1600
-19,Judy O'Brien,1,1,0.5,1599
-20,Dave Hitchings,0,1,0.0,1585
-25,Phil O'Brien,0,1,0.0,1584
-25,Amelia Burger,0,1,0.0,1584
-25,Damir Uzunic,0,1,0.0,1584
-25,Demelo,0,1,0.0,1584
-25,Sarah Mroue,0,1,0.0,1584
-25,Jared Sochinsky,0,1,0.0,1584
-25,Pat Murphy,0,1,0.0,1584
-25,Kofi Wilson,0,1,0.0,1584
-25,Tiffany Schleigh,0,1,0.0,1584
-25,Ben Cole,0,1,0.0,1584
-31,Adam Fratino,1,2,0.333,1583
-34,Rob Leonardi,0,1,0.0,1583
-34,Colin Hanson,0,1,0.0,1583
-34,Merle,0,1,0.0,1583
-34,Anthony Buccellato,0,1,0.0,1583
-34,Stephen Dargo,0,1,0.0,1583
-37,Roger Gibian,0,2,0.0,1570
-38,Paul Czeresko,0,2,0.0,1568
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ranking</th>
+      <th>Player</th>
+      <th>Wins</th>
+      <th>Losses</th>
+      <th>Win %</th>
+      <th>ELO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Ben Brown</td>
+      <td>5</td>
+      <td>0</td>
+      <td>1.000</td>
+      <td>1678</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Mike Dunlap</td>
+      <td>5</td>
+      <td>1</td>
+      <td>0.833</td>
+      <td>1660</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Missy Kayko</td>
+      <td>4</td>
+      <td>1</td>
+      <td>0.800</td>
+      <td>1642</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Eric Papa</td>
+      <td>3</td>
+      <td>1</td>
+      <td>0.750</td>
+      <td>1631</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Tom Witteman</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1.000</td>
+      <td>1616</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Ryan Leggette</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0.667</td>
+      <td>1616</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Paul Assad</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0.667</td>
+      <td>1616</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>David Chester</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1.000</td>
+      <td>1615</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Justin Goodfellow</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0.667</td>
+      <td>1615</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Jeff Weber</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0.667</td>
+      <td>1615</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Jeff Ziev</td>
+      <td>3</td>
+      <td>2</td>
+      <td>0.600</td>
+      <td>1615</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Isaac Dunn</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1601</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Bob Sauchelli</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1600</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Nelson Bakerman</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1600</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Ian Ainley</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1600</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Colin Kelly</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1600</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Kurowska</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1600</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Judy O'Brien</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1599</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Steve Olsen</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0.500</td>
+      <td>1599</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Dave Hitchings</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1585</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Phil O'Brien</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Ben Cole</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Tiffany Schleigh</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Pat Murphy</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Sarah Mroue</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Jared Sochinsky</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Demelo</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Amelia Burger</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Kofi Wilson</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Damir Uzunic</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1584</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Adam Fratino</td>
+      <td>1</td>
+      <td>2</td>
+      <td>0.333</td>
+      <td>1583</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Merle</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1583</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Colin Hanson</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1583</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Rob Leonardi</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1583</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Anthony Buccellato</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1583</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Stephen Dargo</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0.000</td>
+      <td>1583</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Roger Gibian</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0.000</td>
+      <td>1570</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Paul Czeresko</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0.000</td>
+      <td>1568</td>
+    </tr>
+  </tbody>
+</table>
