@@ -1,42 +1,42 @@
 Ranking,Player,ELO,Wins,Losses,Win%
-1,Ben Brown,1678.0,5,0,1.0
-2,Mike Dunlap,1671.85956648904,6,1,0.857
-3,Eric Papa,1645.3096533423634,4,1,0.8
-4,Missy Kayko,1642.0,4,1,0.8
-5,Tom Witteman,1616.0,1,0,1.0
-5,George Brown,1616.0,1,0,1.0
-7,Ryan Leggette,1616.0,2,1,0.667
-7,Paul Assad,1616.0,2,1,0.667
-9,David Chester,1615.0,1,0,1.0
-10,Justin Goodfellow,1615.0,2,1,0.667
-10,Jeff Weber,1615.0,2,1,0.667
-12,Jeff Ziev,1615.0,3,2,0.6
-13,Isaac Dunn,1601.0,1,1,0.5
-14,Bob Sauchelli,1600.0,1,1,0.5
-14,Nelson Bakerman,1600.0,1,1,0.5
-14,Ian Ainley,1600.0,1,1,0.5
-14,Colin Kelly,1600.0,1,1,0.5
-14,Kurowska,1600.0,1,1,0.5
-19,Steve Olsen,1599.6903466576366,1,1,0.5
-20,Judy O'Brien,1599.0,1,1,0.5
-21,Dave Hitchings,1585.0,0,1,0.0
-22,Alyssa Bird,1584.6903466576366,0,1,0.0
-23,Phil O'Brien,1584.0,0,1,0.0
-23,Ben Cole,1584.0,0,1,0.0
-23,Matt Bird,1584.0,0,1,0.0
-23,Damir Uzunic,1584.0,0,1,0.0
-23,Kofi Wilson,1584.0,0,1,0.0
-23,Amelia Burger,1584.0,0,1,0.0
-23,Demelo,1584.0,0,1,0.0
-23,Pat Murphy,1584.0,0,1,0.0
-23,Jared Sochinsky,1584.0,0,1,0.0
-23,Sarah Mroue,1584.0,0,1,0.0
-23,Tiffany Schleigh,1584.0,0,1,0.0
-34,Adam Fratino,1583.0,1,2,0.333
-35,Merle,1583.0,0,1,0.0
-35,Colin Hanson,1583.0,0,1,0.0
-35,Rob Leonardi,1583.0,0,1,0.0
-35,Anthony Buccellato,1583.0,0,1,0.0
-35,Stephen Dargo,1583.0,0,1,0.0
-40,Roger Gibian,1570.0,0,2,0.0
-41,Paul Czeresko,1556.14043351096,0,3,0.0
+1,Ben Brown,1678,5,0,1.0
+2,Mike Dunlap,1671,6,1,0.857
+3,Eric Papa,1645,4,1,0.8
+4,Missy Kayko,1642,4,1,0.8
+5,Tom Witteman,1616,1,0,1.0
+5,George Brown,1616,1,0,1.0
+7,Ryan Leggette,1616,2,1,0.667
+7,Paul Assad,1616,2,1,0.667
+9,David Chester,1615,1,0,1.0
+10,Justin Goodfellow,1615,2,1,0.667
+10,Jeff Weber,1615,2,1,0.667
+12,Jeff Ziev,1615,3,2,0.6
+13,Isaac Dunn,1601,1,1,0.5
+14,Bob Sauchelli,1600,1,1,0.5
+14,Nelson Bakerman,1600,1,1,0.5
+14,Ian Ainley,1600,1,1,0.5
+14,Colin Kelly,1600,1,1,0.5
+14,Kurowska,1600,1,1,0.5
+19,Steve Olsen,1599,1,1,0.5
+19,Judy O'Brien,1599,1,1,0.5
+21,Dave Hitchings,1585,0,1,0.0
+22,Phil O'Brien,1584,0,1,0.0
+22,Ben Cole,1584,0,1,0.0
+22,Matt Bird,1584,0,1,0.0
+22,Alyssa Bird,1584,0,1,0.0
+22,Damir Uzunic,1584,0,1,0.0
+22,Kofi Wilson,1584,0,1,0.0
+22,Amelia Burger,1584,0,1,0.0
+22,Demelo,1584,0,1,0.0
+22,Pat Murphy,1584,0,1,0.0
+22,Jared Sochinsky,1584,0,1,0.0
+22,Sarah Mroue,1584,0,1,0.0
+22,Tiffany Schleigh,1584,0,1,0.0
+34,Adam Fratino,1583,1,2,0.333
+35,Merle,1583,0,1,0.0
+35,Colin Hanson,1583,0,1,0.0
+35,Rob Leonardi,1583,0,1,0.0
+35,Anthony Buccellato,1583,0,1,0.0
+35,Stephen Dargo,1583,0,1,0.0
+40,Roger Gibian,1570,0,2,0.0
+41,Paul Czeresko,1556,0,3,0.0
