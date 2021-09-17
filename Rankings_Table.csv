@@ -3,13 +3,13 @@ Ranking,Player,ELO,Wins,Losses,Win%
 2,Mike Dunlap,1671,6,1,0.857
 3,Missy Kayko,1670,6,1,0.857
 4,Eric Papa,1645,4,1,0.8
-5,Jeff Ziev,1630,4,2,0.667
-6,Chris Widgren,1616,1,0,1.0
-6,George Brown,1616,1,0,1.0
-6,Tom Witteman,1616,1,0,1.0
-9,Nelson Bakerman,1616,2,1,0.667
-9,Ryan Leggette,1616,2,1,0.667
-9,Paul Assad,1616,2,1,0.667
+5,Ryan Leggette,1630,3,1,0.75
+6,Jeff Ziev,1630,4,2,0.667
+7,Chris Widgren,1616,1,0,1.0
+7,George Brown,1616,1,0,1.0
+7,Tom Witteman,1616,1,0,1.0
+10,Nelson Bakerman,1616,2,1,0.667
+10,Paul Assad,1616,2,1,0.667
 12,David Chester,1615,1,0,1.0
 13,Jeff Weber,1615,2,1,0.667
 13,Justin Goodfellow,1615,2,1,0.667
@@ -35,13 +35,13 @@ Ranking,Player,ELO,Wins,Losses,Win%
 28,Amelia Burger,1584,0,1,0.0
 28,Demelo,1584,0,1,0.0
 28,Jared Sochinsky,1584,0,1,0.0
-28,Pat Murphy,1584,0,1,0.0
-38,Adam Fratino,1583,1,2,0.333
-39,Anthony Buccellato,1583,0,1,0.0
-39,Rob Leonardi,1583,0,1,0.0
-39,Colin Hanson,1583,0,1,0.0
-39,Merle,1583,0,1,0.0
-39,Deb Czeresko,1583,0,1,0.0
+37,Adam Fratino,1583,1,2,0.333
+38,Anthony Buccellato,1583,0,1,0.0
+38,Rob Leonardi,1583,0,1,0.0
+38,Colin Hanson,1583,0,1,0.0
+38,Merle,1583,0,1,0.0
+38,Deb Czeresko,1583,0,1,0.0
+43,Pat Murphy,1569,0,2,0.0
 44,Sarah Mroue,1568,0,2,0.0
 44,Dana Vandagriff,1568,0,2,0.0
 46,Stephen Dargo,1567,0,2,0.0
