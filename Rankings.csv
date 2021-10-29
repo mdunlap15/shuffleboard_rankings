@@ -1,55 +1,56 @@
 Player,ELO,Elo
-Mike Dunlap,1684,1684
-Ben Brown,1678,1678
-Missy Kayko,1670,1670
-Nelson Bakerman,1640,1640
-Chris Widgren,1632,1632
-Eric Papa,1631,1631
-Jeff Ziev,1630,1630
-Ryan Leggette,1627,1627
-Bob Sauchelli,1617,1617
-Paul Assad,1617,1617
-Duan Knibbs,1616,1616
-David Chester,1616,1616
-Justin Goodfellow,1615,1615
-Anthony Buccellato,1613,1613
-Damir Uzunic,1602,1602
-Paul Jones,1601,1601
-Isaac Dunn,1601,1601
-Tom Witteman,1600,1600
-Test2,1600,1600
-test1,1600,1600
-Kurowska,1600,1600
-Test1,1600,1600
-test2,1600,1600
-Mike Brady,1600,1600
-Colin Kelly,1599,1599
-Ian Ainley,1599,1599
-Adam Fratino,1598,1598
-Judy O'Brien,1597,1597
-Jeff Weber,1588,1588
-Rob Leonardi,1585,1585
-Steve Olsen,1585,1585
-Dave Hitchings,1585,1585
-Chris Greene,1585,1585
-George Brown,1585,1585
-Jeff Behrens,1584,1584
-Jared Sochinsky,1584,1584
-Demelo,1584,1584
-Nick Shields,1584,1584
-Kofi Wilson,1584,1584
-Colin Hanson,1584,1584
-Phil O'Brien,1584,1584
-Merle,1583,1583
-Ben Cole,1583,1583
-Deb Czeresko,1583,1583
-Roger Gibian,1583,1583
-Amelia Burger,1583,1583
-Matt Bird,1582,1582
-Stephen Dargo,1581,1581
-Alyssa Bird,1568,1568
-Pat Murphy,1568,1568
-Dana Vandagriff,1567,1567
-Sarah Mroue,1567,1567
-Paul Czeresko,1566,1566
-Tiffany Schleigh,1553,1553
+Mike Dunlap,1684.0,1718
+Missy Kayko,1670.0,1695
+Ben Brown,1678.0,1682
+Jeff Ziev,1630.0,1679
+Bob Sauchelli,1617.0,1652
+Eric Papa,1631.0,1650
+Mike Brady,1600.0,1650
+Nelson Bakerman,1640.0,1649
+Paul Assad,1617.0,1648
+Ryan Leggette,1627.0,1648
+Adam Fratino,1598.0,1625
+Anthony Buccellato,1613.0,1625
+Ben Cole,1583.0,1620
+Duan Knibbs,1616.0,1618
+Justin Goodfellow,1615.0,1617
+Paul Jones,1601.0,1613
+Nick Shields,1584.0,1609
+Matt Bird,1582.0,1608
+Isaac Dunn,1601.0,1603
+Chris Widgren,1632.0,1602
+Kurowska,1600.0,1601
+Colin Kelly,1599.0,1601
+test1,1600.0,1600
+Test1,1600.0,1600
+test2,1600.0,1600
+Test2,1600.0,1600
+Tom Witteman,1600.0,1600
+David Chester,1616.0,1599
+Judy O'Brien,1597.0,1596
+Roger Gibian,1583.0,1594
+Damir Uzunic,1602.0,1589
+Tom Wittemann,,1588
+Stephen Dargo,1581.0,1587
+Jared Sochinsky,1584.0,1587
+Colin Hanson,1584.0,1585
+Chris Greene,1585.0,1585
+Kofi Wilson,1584.0,1585
+Dave Hitchings,1585.0,1585
+Rob Leonardi,1585.0,1585
+Demelo,1584.0,1584
+Amelia Burger,1583.0,1583
+Ian Ainley,1599.0,1583
+Merle,1583.0,1582
+Jeff Weber,1588.0,1574
+Steve Olsen,1585.0,1572
+Pat Murphy,1568.0,1572
+Deb Czeresko,1583.0,1565
+Alyssa Bird,1568.0,1555
+Paul Czeresko,1566.0,1549
+George Brown,1585.0,1532
+Jeff Behrens,1584.0,1528
+Dana Vandagriff,1567.0,1524
+Sarah Mroue,1567.0,1512
+Phil O'Brien,1584.0,1489
+Tiffany Schleigh,1553.0,1488
