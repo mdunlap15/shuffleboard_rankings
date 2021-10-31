@@ -1,56 +1,58 @@
 Player,ELO,Elo
-Mike Dunlap,1684.0,1718
-Missy Kayko,1670.0,1695
-Ben Brown,1678.0,1682
-Jeff Ziev,1630.0,1679
-Bob Sauchelli,1617.0,1652
-Eric Papa,1631.0,1650
-Mike Brady,1600.0,1650
-Nelson Bakerman,1640.0,1649
-Paul Assad,1617.0,1648
-Ryan Leggette,1627.0,1648
-Adam Fratino,1598.0,1625
-Anthony Buccellato,1613.0,1625
-Ben Cole,1583.0,1620
-Duan Knibbs,1616.0,1618
-Justin Goodfellow,1615.0,1617
-Paul Jones,1601.0,1613
-Nick Shields,1584.0,1609
-Matt Bird,1582.0,1608
-Isaac Dunn,1601.0,1603
-Chris Widgren,1632.0,1602
-Kurowska,1600.0,1601
-Colin Kelly,1599.0,1601
-test1,1600.0,1600
-Test1,1600.0,1600
-test2,1600.0,1600
-Test2,1600.0,1600
-Tom Witteman,1600.0,1600
-David Chester,1616.0,1599
-Judy O'Brien,1597.0,1596
-Roger Gibian,1583.0,1594
-Damir Uzunic,1602.0,1589
-Tom Wittemann,,1588
-Stephen Dargo,1581.0,1587
-Jared Sochinsky,1584.0,1587
-Colin Hanson,1584.0,1585
-Chris Greene,1585.0,1585
-Kofi Wilson,1584.0,1585
-Dave Hitchings,1585.0,1585
-Rob Leonardi,1585.0,1585
-Demelo,1584.0,1584
-Amelia Burger,1583.0,1583
-Ian Ainley,1599.0,1583
-Merle,1583.0,1582
-Jeff Weber,1588.0,1574
-Steve Olsen,1585.0,1572
-Pat Murphy,1568.0,1572
-Deb Czeresko,1583.0,1565
-Alyssa Bird,1568.0,1555
-Paul Czeresko,1566.0,1549
-George Brown,1585.0,1532
-Jeff Behrens,1584.0,1528
-Dana Vandagriff,1567.0,1524
-Sarah Mroue,1567.0,1512
-Phil O'Brien,1584.0,1489
-Tiffany Schleigh,1553.0,1488
+Mike Dunlap,1684.0,1719.8074645741629
+Missy Kayko,1670.0,1696.5502466362184
+Ben Brown,1678.0,1683.825100078571
+Jeff Ziev,1630.0,1681.316756866472
+Ryan Leggette,1627.0,1659.8939135017845
+Bob Sauchelli,1617.0,1652.6055577964328
+Eric Papa,1631.0,1651.5106352697567
+Mike Brady,1600.0,1650.0
+Paul Assad,1617.0,1649.9592637537326
+Nelson Bakerman,1640.0,1649.9023652318756
+Adam Fratino,1598.0,1625.9044503700673
+Anthony Buccellato,1613.0,1625.0
+Ben Cole,1583.0,1620.0
+Duan Knibbs,1616.0,1618.0
+Matt Bird,1582.0,1618.0
+Justin Goodfellow,1615.0,1617.2935359202215
+,,1616.0
+Nick Shields,1584.0,1610.0
+Isaac Dunn,1601.0,1603.10031235918
+Chris Widgren,1632.0,1603.0
+Kurowska,1600.0,1601.7121315333118
+Colin Kelly,1599.0,1601.4451540520581
+test1,1600.0,1600.0
+Test1,1600.0,1600.0
+test2,1600.0,1600.0
+Test2,1600.0,1600.0
+Tom Witteman,1600.0,1600.0
+Paul Jones,1601.0,1599.0
+Stephen Dargo,1581.0,1598.9623112698616
+Judy O'Brien,1597.0,1596.5190590306518
+Tom Wittemann,,1588.0
+Damir Uzunic,1602.0,1587.5661149503721
+David Chester,1616.0,1587.0
+Jared Sochinsky,1584.0,1587.0
+Colin Hanson,1584.0,1586.1060864982155
+Dave Hitchings,1585.0,1585.7517869880614
+Kofi Wilson,1584.0,1585.7074291880206
+Rob Leonardi,1585.0,1585.6306755417138
+Chris Greene,1585.0,1585.0
+Steve Olsen,1585.0,1585.0
+,,1584.0
+Demelo,1584.0,1584.0
+Ian Ainley,1599.0,1583.5607787475117
+Amelia Burger,1583.0,1583.3107029547405
+Merle,1583.0,1582.4392212524883
+Roger Gibian,1583.0,1580.1841986691566
+Jeff Weber,1588.0,1575.8895178855257
+Pat Murphy,1568.0,1571.1518908536882
+Deb Czeresko,1583.0,1566.0
+Alyssa Bird,1568.0,1566.0
+Paul Czeresko,1566.0,1549.0
+George Brown,1585.0,1531.0
+Jeff Behrens,1584.0,1528.0
+Dana Vandagriff,1567.0,1524.0
+Sarah Mroue,1567.0,1500.0
+Phil O'Brien,1584.0,1489.0
+Tiffany Schleigh,1553.0,1475.3933382261473
