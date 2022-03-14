@@ -3,7 +3,7 @@ ipykernel
 jupyter-client==7.1.2
 nbconvert==6.4.4
 openpyxl
-pandas==1.4.1
-plotly==5.6.0
+pandas
+plotly
 voila
 voila-vuetify
