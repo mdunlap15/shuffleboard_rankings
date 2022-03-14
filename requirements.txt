@@ -1,7 +1,7 @@
 gspread
 ipykernel
-jupyter-client==7.0.2
-nbconvert==6.1.0
+jupyter-client
+nbconvert
 openpyxl
 pandas
 plotly
