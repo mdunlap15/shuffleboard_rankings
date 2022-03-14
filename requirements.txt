@@ -4,6 +4,6 @@ jupyter-client==7.0.2
 nbconvert==6.1.0
 openpyxl
 pandas
-plotly --use-deprecated=legacy-resolver
-voila --show_tracebacks=True --use-deprecated=legacy-resolver
-voila-vuetify --use-deprecated=legacy-resolver
+plotly 
+voila --show_tracebacks=True 
+voila-vuetify
