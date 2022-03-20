@@ -2,6 +2,8 @@ gspread
 pandas
 plotly
 ipykernel
-voila==0.3.3
+voila
 jupyter-client==7.1.2
 nbconvert==6.4.4
+openpyxl
+voila-vuetify
