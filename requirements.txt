@@ -1,4 +1,4 @@
 gspread
 pandas
-plotly.graph_objects
+plotly
 voila==0.3.3
