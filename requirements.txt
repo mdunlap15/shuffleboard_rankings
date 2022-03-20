@@ -2,3 +2,5 @@ gspread
 pandas
 plotly
 voila==0.3.3
+jupyter-client==7.1.2
+nbconvert==6.4.4
